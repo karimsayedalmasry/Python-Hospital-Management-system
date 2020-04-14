@@ -28,6 +28,7 @@ C. To delete, the system ask the user enter patient's ID.
 
 - In the user mode :
 There is no password. The system allows the following features:
+
 1- View all departments in a hospital
 2- View all doctors in a hospital in details
 3- View all patients Residents in a hospital in details
